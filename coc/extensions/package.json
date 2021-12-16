@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "coc-diagnostic": ">=0.6.0",
+    "coc-elixir": ">=0.5.0"
+  }
+}

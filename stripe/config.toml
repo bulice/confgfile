@@ -1,0 +1,10 @@
+color = ""
+
+[default]
+  account_id = "acct_1J8xQdLZvfr9w6Rs"
+  device_name = "192.168.100.153"
+  display_name = "PHOELIFE,INC."
+  live_mode_api_key = "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"
+  live_mode_publishable_key = "pk_live_51J8xQdLZvfr9w6RsH6RQAgJCoY2QXFT0kNoRMu1hNcL7KGwiZBAfqyuaeX3qUlUHdGs3WkOjFQ3920h49DzXEsWz00BEsqaTes"
+  test_mode_api_key = "rk_test_51J8xQdLZvfr9w6Rsx6fUywqo8ueBINy5Xz2KZiZV25SJ29x6TN13IvDSEYf19jkBXQeDYQfxMZDniKwYJ0I7XEUB00onUOuI7o"
+  test_mode_publishable_key = "pk_test_51J8xQdLZvfr9w6RsbqfYnCfHgwjlKET4VfWiibP6HUb9hdzPMFNjay3oO6k1kGOAPeO1NjlvtDGGPkynEjfypW4500tdXTRg1q"

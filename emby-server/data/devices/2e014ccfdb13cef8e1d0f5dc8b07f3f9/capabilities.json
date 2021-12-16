@@ -1,0 +1,1 @@
+{"PlayableMediaTypes":["Audio","Photo","Video"],"SupportedCommands":["VolumeDown","VolumeUp","Mute","Unmute","ToggleMute","SetVolume","SetAudioStreamIndex","SetSubtitleStreamIndex","PlayMediaSource"],"SupportsMediaControl":true,"SupportsSync":false}
