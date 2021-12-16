@@ -1,0 +1,2 @@
+# confgfile
+my mac config
